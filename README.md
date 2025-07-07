@@ -138,9 +138,9 @@ This repository belongs to aeroKLE Aero-Design team.
   >  sudo pip3 install dronekit
   >  sudo pip3 install geopy
   >  sudo pip3 install MAVProxy
-  > ```
+  ```
 
-  - Set up serial connection, type following in ssh
+  - Set up the serial connection, type following in ssh
   > ```bash
   > sudo raspi-config
   - After opens setting follow these step
