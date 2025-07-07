@@ -7,6 +7,7 @@ This repository belongs to aeroKLE Aero-Design team.
 ###  [Dronekit library github](https://github.com/dronekit/dronekit-python)
 ###  [Pymavlink library github](https://github.com/ArduPilot/pymavlink)
 ###  [MAVSDK Library Github](https://github.com/mavlink/MAVSDK)
+### [ROS2 Gazebo Ardupilot Setup](https://github.com/riteshrkulkarni/ROS2-and-Gazebo/)
 
 # Pixhawk and Raspberry Pi Integration
   - [**Previous version of Raspberry Pi**](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/) 
