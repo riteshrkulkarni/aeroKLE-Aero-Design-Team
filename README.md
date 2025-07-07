@@ -8,7 +8,7 @@ This repository belongs to aeroKLE Aero-Design team.
 ###  [Pymavlink library github](https://github.com/ArduPilot/pymavlink)
 ###  [MAVSDK Library Github](https://github.com/mavlink/MAVSDK)
 
-# Pixhawk and Raspberrypi Integration
+# Pixhawk and Raspberry Pi Integration
   - [**Previous version of raspbery pi**](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/) 
 
 <details>
